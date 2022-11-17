@@ -38,7 +38,7 @@ function RightComp() {
         </TableRow>
       </TableBody>
     </Table>
-    <Table sx={{ mt: 3 }}>
+    <Table sx={{ mt: 3}}>
       <TableBody>
         <TableRow
           sx={{minHeight: "300px",border: "1px solid #bababa",borderRadius: "20px",borderLeft: "1px solid #bababa",height: "150px"}}>
